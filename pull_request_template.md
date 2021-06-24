@@ -1,4 +1,4 @@
-[AOI-](https://ambrite.atlassian.net/browse/AOI-) |
+[AOI-](https://ambrite.atlassian.net/browse/AOI-)
 Short Description 
 ---------------------------------------------------------
 ### Achieved in this PR
