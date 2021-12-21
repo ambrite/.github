@@ -1,20 +1,11 @@
-[AOI-](https://ambrite.atlassian.net/browse/AOI-) |
-Short Description 
+Precise descriptive title
 ---------------------------------------------------------
-### Achieved in this PR
-- List what you've done in this PR
-- E.g: Added a new graph type to a UI
-
-### Motivation
-- List the motivations for this PR
-- E.g: We require this graph type to display data XYZ
-
-### Functionality
-- Explain what has changed and where to find it
-- E.g: The new graph should be visible in page X and should display data XYZ correctly
+### Achieved
+- List what you've done in this PR, and why if needed
+- E.g: Added a new graph type to a UI that is visible in page X and should display data XYZ correctly
 
 ### Dependency
-- [AOI-](https://ambrite.atlassian.net/browse/AOI-) "Process data for graph in backend"
+- [#00](https://github.com/ambrite/ranger-project/issues/00) "Process data for graph in backend"
 
 ### Testing
 - Explain exactly what testing is needed to verify the PR
